@@ -1,0 +1,9 @@
+@article{REPO-266,
+    author = "Rudd, Ethan M and Jain, Lalit P and Scheirer, Walter J and Boult, Terrance E",
+    journal = "IEEE transactions on pattern analysis and machine intelligence",
+    number = "3",
+    pages = "762--768",
+    title = "{The Extreme Value Machine}",
+    volume = "40",
+    year = "2017"
+}
